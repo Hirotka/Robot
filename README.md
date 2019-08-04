@@ -1,4 +1,4 @@
-Мои примеры решения задач при помощи графического исполнителя "робоот": https://hirotka.github.io/robot.github.io/
+Мои примеры решения задач при помощи графического исполнителя "робот": https://hirotka.github.io/robot.github.io/
 
 
 Ссылка на оригинал страницы с заданиями: http://judge.mipt.ru/mipt_cs_on_python3/labs/lab2.html
